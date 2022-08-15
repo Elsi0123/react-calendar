@@ -1,0 +1,14 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.App{
+  display: grid;
+  border: solid
+  2px
+  rgb(156, 156, 156);
+ 
+}
